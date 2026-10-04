@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+*.env
+!.env.example
+
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Model checkpoints & Adapters
+models/lora_news_summarizer/
+models/*.safetensors
+models/*.bin
+models/*.pt
+checkpoints/
+adapter/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+*.log

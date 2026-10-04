@@ -1,0 +1,30 @@
+                                                  Summer Internship Project Report
+                                                         AI-Powered NLP
+                                                        
+->Introduction of the Project Undertaken
+    Objective: Build AI-powered News Agent using LangChain, Groq API, and GNEWS API.
+    Importance: Personalized and location-aware news delivery.
+    Scope: Extensible to any NLP-based project (chatbots, assistants, RAG).
+    Relevance: Combines real-world APIs with advanced AI models.
+
+->Technologies Used
+    LangChain – Orchestration of AI pipelines.
+    Groq API – Fast LLM inference.
+    Google Maps API – Accurate geolocation services.
+    Streamlit – Interactive user interface.
+    RAG (Retrieval Augmented Generation) – Enhanced responses with external data.
+    Ollama – Access to pre-trained NLP models.
+
+->Implementation Flow
+    1. User opens the Streamlit App.
+    2. Location is fetched using Google Maps API.
+    3. Query sent to Groq LLM for news summarization.
+    4. Localized results displayed in user-friendly UI.
+    5. Supports extension with RAG and AI Agents.
+
+->Conclusion
+    Successfully built an AI-powered localized news agent.
+    Learned integration of multiple APIs with AI models.
+    Future Scope: Expand to multi-modal AI (text + voice + vision).
+    Industry Relevance: Foundation for chatbots, assistants, and smart agents.
+

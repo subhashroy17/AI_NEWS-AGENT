@@ -1,0 +1,52 @@
+[
+  {
+    "id": "news_001",
+    "title": "OpenAI Releases Next-Gen Reasoning Model with Enhanced Efficiency",
+    "description": "OpenAI announced a new iteration of its frontier AI models designed for high-speed reasoning, lower memory consumption, and advanced multi-step problem solving in coding and science.",
+    "content": "SAN FRANCISCO — OpenAI has officially unveiled its latest series of artificial intelligence models focusing on logical reasoning and parameter efficiency. The model demonstrates significant improvements in synthetic benchmark tests, reducing inference compute requirements by over 40% while preserving accuracy across complex mathematics, competitive programming, and automated scientific hypothesis generation. Industry experts highlight this shift toward smaller, highly optimized models as a pivotal moment for edge AI applications.",
+    "url": "https://example.com/news/openai-reasoning-model",
+    "source": "TechCrunch",
+    "published_at": "2026-10-04T08:00:00Z",
+    "category": "Technology"
+  },
+  {
+    "id": "news_002",
+    "title": "Global Tech Giants Invest $50 Billion in Next-Generation AI Data Centers",
+    "description": "Major technology infrastructure companies have pledged $50 billion toward constructing green AI data centers powered by renewable nuclear and solar energy sources.",
+    "content": "SEATTLE — Leading cloud service providers announced massive new capital expenditure commitments totaling $50 billion for high-density computing facilities. The initiative mandates that 100% of power consumption for new data centers must be sourced from zero-carbon micro-reactors and solar storage grids to mitigate environmental impact while powering hardware clusters.",
+    "url": "https://example.com/news/ai-data-center-investment",
+    "source": "Reuters",
+    "published_at": "2026-10-04T07:30:00Z",
+    "category": "Business"
+  },
+  {
+    "id": "news_003",
+    "title": "OpenAI Introduces High-Efficiency Frontier Model for Developer Workloads",
+    "description": "A secondary report details OpenAI's release of efficient AI models aimed at reducing compute costs for enterprise developers while retaining benchmark accuracy.",
+    "content": "SAN FRANCISCO — In a detailed technical blog post, researchers outlined how architectural optimization allowed the newly released OpenAI reasoning model to cut GPU memory footprints significantly. Enterprise clients will benefit from reduced API latency and lower inference pricing across code generation and automated testing tasks.",
+    "url": "https://example.com/news/openai-efficient-model-devs",
+    "source": "VentureBeat",
+    "published_at": "2026-10-04T08:15:00Z",
+    "category": "Technology"
+  },
+  {
+    "id": "news_004",
+    "title": "Renewable Energy Grid Upgrade Reaches Milestone in South Asia",
+    "description": "Regional power authorities report successful deployment of smart grid automation and battery storage systems, reducing urban power outages by 65%.",
+    "content": "HYDERABAD — State energy authorities have completed phase one of their grid modernization project across major metropolitan districts. By deploying distributed battery energy storage systems (BESS) and machine learning load-balancing software, grid reliability has improved by 65%, providing steady power to over 12 million households.",
+    "url": "https://example.com/news/renewable-grid-milestone",
+    "source": "The Hindu",
+    "published_at": "2026-10-04T06:00:00Z",
+    "category": "Science"
+  },
+  {
+    "id": "news_005",
+    "title": "Big Tech Pledges Millions for Sustainable Compute Infrastructure",
+    "description": "Enterprise cloud vendors join consortium to fund clean power generation for rising AI compute demands.",
+    "content": "LONDON — Tech conglomerates have formed a global consortium to fund clean power projects designed specifically to supply next-generation machine learning clusters, addressing concerns regarding the carbon footprint of massive model training operations.",
+    "url": "https://example.com/news/big-tech-clean-compute",
+    "source": "Bloomberg",
+    "published_at": "2026-10-04T07:45:00Z",
+    "category": "Business"
+  }
+]
